@@ -45,9 +45,9 @@ and open tag in our file WolfPack
   - **attributes** `aggroRange` == `<ai type="BALANCED" aggroRange="300"/>` **tag**
   - ai_type == **dont change this**
   - **attributes** `baseCON` == `<stats con="00">` **tag**
-  - **attributes** baseCritRate == `<attack critical="0" />` **tag**
-  - > in **baseCritRate** if = 40 it gonna be 4 in  `<attack critical="4" />`
-  - > in **baseCritRate** if = 90 it gonna be 9 in  `<attack critical="9" />`
+  - **attributes** `baseCritRate` == `<attack critical="0" />` **tag**
+  - > in `**baseCritRate**` if = 40 it gonna be 4 in  `<attack critical="4" />`
+  - > in `**baseCritRate**` if = 90 it gonna be 9 in  `<attack critical="9" />`
   - **attributes** `baseDEX` == `<stats dex="00">` **tag**
   - **attributes** `baseHpMax` == `<vitals hp="00.00" />` **tag**
   - **attributes** `baseHpRate` == **dont change this**
@@ -88,4 +88,4 @@ and open tag in our file WolfPack
 
 ## after finish edit you have to put your signture after open tag `<npc>` like this
  - > `<npc>`
- - > `<!-- Edited to Retail CT2.6 by ElDoc -->`
+ - > `<!-- Edited to Retail CT2.6 by <YourName> -->`
