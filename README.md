@@ -89,3 +89,14 @@ and open tag in our file WolfPack
 ## after finish edit you have to put your signture after open tag `<npc>` like this
  - > `<npc>`
  - > `<!-- Edited to Retail CT2.6 by <YourName> -->`
+
+#### to get files on your PC
+- **`git clone https://github.com/MahmoudNabilElSoghier/Lineage2_Monsters_NPCs_Tasks.git`**
+
+#### after finish task or part of the task you have to use this commands in git bash
+- **`git add .`**
+- **`git commit -m " put ur changes "`**
+- **`git push -u origin main`**
+
+#### if our team put changes u must pull first to push
+- **`git pull origin main`**
