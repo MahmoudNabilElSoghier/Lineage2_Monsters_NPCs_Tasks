@@ -26,7 +26,7 @@ first i'm gonna show you what's the **different** between our file **WolfPack (W
 > WE TALK ABOUT **NPCs** only!
 - our file **WolfPack**
 
-`
+``
 	<npc id="22822" name="Drakos Warrior" title="">
 	<!-- Edited to Retail CT2.6 by LordOfBattle -->
 		<set name="aggroRange" value="400" />
@@ -120,10 +120,10 @@ first i'm gonna show you what's the **different** between our file **WolfPack (W
 			</corpse>
 		</drop_lists>
 	</npc>
-`
+``
 - **L2JSunrise** file
 
-`
+``
 	<npc id="22822" level="83" type="L2Monster" name="Drakos Warrior">
 		<!-- Confirmed CT2.5 -->
 		<parameters>
@@ -203,7 +203,7 @@ first i'm gonna show you what's the **different** between our file **WolfPack (W
 			<height normal="55" />
 		</collision>
 	</npc>
-`
+``
 
 
 every value are the same and key too but with small different on name but still close on it
@@ -266,15 +266,3 @@ and open tag in our file WolfPack
   - `<attack attribute="fire" value="200" />` == `<attack type="FIRE" value="200" />` **tag and attributes**
   - `<defence attribute="fire" value="170" />` == `<defence fire="200" water="140" wind="170" earth="170" holy="170" dark="170" default="180" />`
   - > **all mobs must have attribute if you dont found it in our files you must put it!!!**
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
