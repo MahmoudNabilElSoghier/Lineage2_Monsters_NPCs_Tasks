@@ -25,6 +25,7 @@
 first i'm gonna show you what's the **different** between our file **WolfPack (WP)** and **L2JSunrise**
 > WE TALK ABOUT **NPCs** only!
 - our file **WolfPack**
+
 `
 	<npc id="22822" name="Drakos Warrior" title="">
 	<!-- Edited to Retail CT2.6 by LordOfBattle -->
