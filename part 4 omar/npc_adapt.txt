@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+<!-- Base atkspd -->
+<set name="basePAtkSpd" value="253" />
+<!-- Base castspd -->
+<set name="baseMAtkSpd" value="333" />
+<!-- Equip items -->
+<equip>
+	<rhand item_id="13985" />	<!--Exclusive to Monsters (Death Slayer_r) -->
+	<lhand item_id="13986" />	<!--Exclusive to Monsters (Death Slayer_l) -->
+</equip>
+<!-- Attribute -->
+<attributes>
+	<attack attribute="unholy" value="150" />
+	<defence attribute="fire" value="130" />
+	<defence attribute="water" value="130" />
+	<defence attribute="wind" value="130" />
+	<defence attribute="earth" value="130" />
+	<defence attribute="holy" value="90" />
+	<defence attribute="unholy" value="150" />
+</attributes>
+<!-- Ai param -->
+<!-- show in fake hide -->
+<ai_params>
+	<set name="canSeeInSilentMove" value="true" />
+</ai_params>
+<!-- show in hide -->
+<ai_params>
+	<set name="canSeeInHide" value="true" />
+</ai_params>
+<!-- follow players range -->
+<ai_params>
+	<set name="MaxPursueRange" value="50000" />
+</ai_params>
+<!-- Spawn in die -->
+<ai_params>
+	<set name="transformChance" value="10" />
+	<set name="transformOnDead" value="22837" />
+</ai_params>
+<!-- Minions -->
+<minions>
+	<minion npc_id="22826" count="3" />	<!--Scorpion Bones -->
+</minions>
+<!-- Top Templete -->
+<npc id="32537" template_id="32546" name="Instance Manager" title="~ L2 Ja7em ~">
+<!-- Hide Name -->
+<ai_params>
+	<set name="showName" value="true" />
+</ai_params>
+<!-- TargetEnabled -->
+<ai_params>
+	<set name="TargetEnabled" value="true" />
+</ai_params>
+<!-- Stop Movement -->
+<set name="noRandomWalk" value="false" />
+<!-- Open Community Board From NPC -->
+<ai_params>
+	<set name="showBoard" value="_bbsGlobalGK Link teleports.htm" />
+</ai_params>
+<ai_params>
+	<set name="showBoard" value="_bbspage:shop/main" />
+</ai_params>
+<ai_params>
+	<set name="showBoard" value="_bbsevent" />
+</ai_params>
+<ai_params>
+	<set name="showBoard" value="_bbsfile:smallNpcs/blacksmith" />
+</ai_params>
+<!-- equip weapon -->
+<equip>
+	<rhand item_id="8203" />	<!--Monster Only (Venom Sword) -->
+	<lhand item_id="8203" />	<!--Monster Only (Venom Sword) -->
+</equip>
+<!-- Paralize On Attack -->
+<ai_params>
+	<set name="ParalizeOnAttack" value="8" />
+</ai_params>
+<!-- Self Aggressive -->
+<ai_params>
+	<set name="SelfAggressive" value="0" />
+</ai_params>
+<skills>
+	<skill id="4045" level="1" />	<!--Resist Full Magic Attack -->
+	<skill id="4210" level="10" />	<!--BOSS Chant of Life -->
+	<skill id="4214" level="10" />	<!--BOSS Reflect Damage -->
+	<skill id="4408" level="1" />	<!--HP Increase (1x) -->
+	<skill id="4409" level="1" />	<!--MP Increase (1x) -->
+	<skill id="4410" level="11" />	<!--Average P. Atk. -->
+	<skill id="4411" level="11" />	<!--Average M. Atk. -->
+	<skill id="4412" level="11" />	<!--Average P. Def. -->
+	<skill id="4413" level="11" />	<!--Average M. Def. -->
+	<skill id="4414" level="3" />	<!--Light Armor Type -->
+	<skill id="4415" level="3" />	<!--One-handed Sword -->
+	<skill id="4416" level="6" />	<!--Humanoids -->
+	<skill id="5117" level="1" />	<!--Stun -->
+	<skill id="4214" level="2" />	<!--BOSS Reflect Damage -->
+	<skill id="4214" level="2" />	<!--BOSS Reflect Damage -->
+			<skill id="4408" level="1" />	<!--HP Increase (1x) -->
+			<skill id="4409" level="1" />	<!--MP Increase (1x) -->
+			<skill id="4410" level="11" />	<!--Average P. Atk. -->
+			<skill id="4411" level="11" />	<!--Average M. Atk. -->
+			<skill id="4412" level="11" />	<!--Average P. Def. -->
+			<skill id="4413" level="11" />	<!--Average M. Def. -->
+			<skill id="4414" level="2" />	<!--Standard Type -->
+			<skill id="4415" level="5" />	<!--Blunt Weapons -->
+			<skill id="4416" level="6" />	<!--Humanoids -->
+			<skill id="4438" level="4" />	<!--Greater Resist Sleep -->
+			<skill id="4439" level="4" />	<!--Greater Resist Hold -->
+			<skill id="4440" level="4" />	<!--Greater Resist Paralysis -->
+			<skill id="4441" level="4" />	<!--Greater Resist Mental Derangement -->
+			<skill id="4780" level="2" />	<!--BOSS Heal -->
+</skills>
+
+
+<faction name="ranku_clan" range="2000" />
+</list>
