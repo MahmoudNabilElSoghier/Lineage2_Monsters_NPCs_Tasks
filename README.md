@@ -121,6 +121,7 @@ first i'm gonna show you what's the **different** between our file **WolfPack (W
 	</npc>
 `
 - **L2JSunrise** file
+
 `
 	<npc id="22822" level="83" type="L2Monster" name="Drakos Warrior">
 		<!-- Confirmed CT2.5 -->
