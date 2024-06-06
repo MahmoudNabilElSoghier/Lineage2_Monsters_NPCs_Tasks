@@ -87,5 +87,5 @@ and open tag in our file WolfPack
   - > **all mobs must have attribute if you dont found it in our files you must put it!!!**
 
 ## after finish edit you have to put your signture after open tag `<npc>` like this
- > <npc>
- > <!-- Edited to Retail CT2.6 by ElDoc -->
+ -> `<npc>`
+ -> `<!-- Edited to Retail CT2.6 by ElDoc -->`
