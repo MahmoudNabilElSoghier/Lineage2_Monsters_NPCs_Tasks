@@ -40,44 +40,44 @@ and open tag in our file WolfPack
 
 #### here i'm gonna put WOLFPACK Tags and Keys == L2JSunrise Tags and Keys
 - `<npc>` == `<npc>` **tag**
-  - **attributes** id == id **attributes** and **that is the road of changes**
-  - **attributes** name == name **attributes**
-  - **attributes** aggroRange == `<ai type="BALANCED" aggroRange="300"/>` **tag**
+  - **attributes** `id` == `id` **attributes** and **that is the road of changes**
+  - **attributes** `name` == `name` **attributes**
+  - **attributes** `aggroRange` == `<ai type="BALANCED" aggroRange="300"/>` **tag**
   - ai_type == **dont change this**
-  - **attributes** baseCON == `<stats con="00">` **tag**
+  - **attributes** `baseCON` == `<stats con="00">` **tag**
   - **attributes** baseCritRate == `<attack critical="0" />` **tag**
   - > in **baseCritRate** if = 40 it gonna be 4 in  `<attack critical="4" />`
   - > in **baseCritRate** if = 90 it gonna be 9 in  `<attack critical="9" />`
-  - **attributes** baseDEX == `<stats dex="00">` **tag**
-  - **attributes** baseHpMax == `<vitals hp="00.00" />` **tag**
-  - **attributes** baseHpRate == **dont change this**
-  - **attributes** baseHpReg == `<vitals hpRegen="00.00" />` **tag**
-  - **attributes** baseINT == `<stats int="00">` **tag**
-  - **attributes** baseMAtk == `<attack magical="6998.04554416799" />` **tag**
-  - **attributes** baseMAtkSpd == **by default is 333**
-  - **attributes** baseMDef == `<defence magical="621.45708" />`**tag**
-  - **attributes** baseMEN == `<stats men="00">` **tag**
-  - **attributes** baseMpMax == `<vitals mp="00.00" />` **tag**
-  - **attributes** baseMpReg == `<vitals mpRegen="00.00" />` **tag**
-  - **attributes** basePAtk == `<attack physical="10247.9853769394" />` **tag**
-  - **attributes** basePAtkSpd == `<attack attackSpeed="253" />` **tag**
-  - **attributes** basePDef == `<defence physical="566.178304" />` **tag**
-  - **attributes** baseRunSpd == `<run ground="200" />` **tag**
-  - **attributes** baseSTR == `<stats str="00">` **tag**
-  - **attributes** baseShldDef == check if has Shield Defence
-  - > not all mobs has Shield Defence
-  - **attributes** baseShldRate == check if has Shield Defence rate
-  - > not all mobs has Shield Defence rate
-  - **attributes** baseWIT == `<stats wit="00">` **tag**
-  - **attributes** baseWalkSpd == `<walk ground="100" />` **tag**
-  - **attributes** collision_height == `<height normal="55" />` **tag**
-  - **attributes** collision_radius == `<radius normal="50" />` **tag**
-  - **attributes** level == 
-  - **attributes** rewardExp == `<acquire expRate="60.6003927743101" />` **tag**
-  - **attributes** rewardRp == `<acquire raidPoints="0" />` **tag**
-  - **attributes** rewardSp == `<acquire sp="42928" />` **tag**
-  - **attributes** texture == 
-  - **attributes** type == **dont change this**
+  - **attributes** `baseDEX` == `<stats dex="00">` **tag**
+  - **attributes** `baseHpMax` == `<vitals hp="00.00" />` **tag**
+  - **attributes** `baseHpRate` == **dont change this**
+  - **attributes** `baseHpReg` == `<vitals hpRegen="00.00" />` **tag**
+  - **attributes** `baseINT` == `<stats int="00">` **tag**
+  - **attributes** `baseMAtk` == `<attack magical="6998.04554416799" />` **tag**
+  - **attributes** `baseMAtkSpd` == **by default is 333**
+  - **attributes** `baseMDef` == `<defence magical="621.45708" />`**tag**
+  - **attributes** `baseMEN` == `<stats men="00">` **tag**
+  - **attributes** `baseMpMax` == `<vitals mp="00.00" />` **tag**
+  - **attributes** `baseMpReg` == `<vitals mpRegen="00.00" />` **tag**
+  - **attributes** `basePAtk` == `<attack physical="10247.9853769394" />` **tag**
+  - **attributes** `basePAtkSpd` == `<attack attackSpeed="253" />` **tag**
+  - **attributes** `basePDef` == `<defence physical="566.178304" />` **tag**
+  - **attributes** `baseRunSpd` == `<run ground="200" />` **tag**
+  - **attributes** `baseSTR` == `<stats str="00">` **tag**
+  - **attributes** `baseShldDef` == check if has `Shield Defence`
+  - > not all mobs has `Shield Defence`
+  - **attributes** `baseShldRate` == check if has `Shield Defence rate`
+  - > not all mobs has `Shield Defence rate`
+  - **attributes** `baseWIT` == `<stats wit="00">` **tag**
+  - **attributes** `baseWalkSpd` == `<walk ground="100" />` **tag**
+  - **attributes** `collision_height` == `<height normal="55" />` **tag**
+  - **attributes** `collision_radius` == `<radius normal="50" />` **tag**
+  - **attributes** `level` == `<npc level="00">` **tag**
+  - **attributes** `rewardExp` == `<acquire expRate="60.6003927743101" />` **tag**
+  - **attributes** `rewardRp` == `<acquire raidPoints="0" />` **tag**
+  - **attributes** `rewardSp` == `<acquire sp="42928" />` **tag**
+  - **attributes** `texture` == if you checked the texture are the same in client etc do the right.
+  - **attributes** `type` == **dont change this**
 - `<skills>` == `<skillList>` **tag**
   - `<skill id="4408" level="11" />` == `<skill id="4408" level="11" />` **tag and attributes**
   - > **all mobs must have skills if you dont found it in our files you must put it!!!**
@@ -87,5 +87,5 @@ and open tag in our file WolfPack
   - > **all mobs must have attribute if you dont found it in our files you must put it!!!**
 
 ## after finish edit you have to put your signture after open tag `<npc>` like this
- -> `<npc>`
- -> `<!-- Edited to Retail CT2.6 by ElDoc -->`
+ - > `<npc>`
+ - > `<!-- Edited to Retail CT2.6 by ElDoc -->`
