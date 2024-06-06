@@ -85,3 +85,7 @@ and open tag in our file WolfPack
   - `<attack attribute="fire" value="200" />` == `<attack type="FIRE" value="200" />` **tag and attributes**
   - `<defence attribute="fire" value="170" />` == `<defence fire="200" water="140" wind="170" earth="170" holy="170" dark="170" default="180" />`
   - > **all mobs must have attribute if you dont found it in our files you must put it!!!**
+
+## after finish edit you have to put your signture after open tag `<npc>` like this
+ > <npc>
+ > <!-- Edited to Retail CT2.6 by ElDoc -->
