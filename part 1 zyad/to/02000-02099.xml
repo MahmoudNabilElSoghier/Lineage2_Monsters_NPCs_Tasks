@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "npc.dtd">
+<list>
+	<npc id="2081" name="Plague Kanabion" title="">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="Fighter" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="3643.38976668326" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="721" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="256" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1743" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="1055" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="350" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="8" />
+		<set name="collision_height" value="29.0" />
+		<set name="collision_radius" value="9.0" />
+		<set name="level" value="80" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="927" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<skills>
+			<skill id="4032" level="8" /> <!-- NPC Strike -->
+			<skill id="4408" level="1" /> <!-- HP Modifiers -->
+			<skill id="4409" level="1" /> <!-- MP Modifiers -->
+			<skill id="4410" level="11" /> <!-- P. Atk. Modifiers -->
+			<skill id="4411" level="11" /> <!-- M. Atk. Modifiers -->
+			<skill id="4412" level="11" /> <!-- P. Def. Modifiers -->
+			<skill id="4413" level="11" /> <!-- M. Def. Modifiers -->
+			<skill id="4414" level="2" /> <!-- Armor Type -->
+			<skill id="4415" level="3" /> <!-- Weapon Type -->
+			<skill id="4416" level="6" /> <!-- Races -->
+			<skill id="5719" level="1" /> <!-- Kamabion Susceptibility -->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+		<drop_lists>
+			<death>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="10" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="36" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Alacrity -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</death>
+		</drop_lists>
+	</npc>
+	<npc id="2082" name="Plague Kanabion" title="">
+		<set name="aggroRange" value="0" />
+		<set name="ai_type" value="Fighter" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="3643.38976668326" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="721" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="256" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1743" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="1055" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="350" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="8" />
+		<set name="collision_height" value="31.5" />
+		<set name="collision_radius" value="9.0" />
+		<set name="level" value="80" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="927" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<skills>
+			<skill id="4032" level="8" /> <!-- NPC Strike -->
+			<skill id="4408" level="1" /> <!-- HP Modifiers -->
+			<skill id="4409" level="1" /> <!-- MP Modifiers -->
+			<skill id="4410" level="11" /> <!-- P. Atk. Modifiers -->
+			<skill id="4411" level="11" /> <!-- M. Atk. Modifiers -->
+			<skill id="4412" level="11" /> <!-- P. Def. Modifiers -->
+			<skill id="4413" level="11" /> <!-- M. Def. Modifiers -->
+			<skill id="4414" level="2" /> <!-- Armor Type -->
+			<skill id="4415" level="3" /> <!-- Weapon Type -->
+			<skill id="4416" level="14" /> <!-- Races -->
+			<skill id="5719" level="1" /> <!-- Kamabion Susceptibility -->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+		<drop_lists>
+			<death>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="10" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="36" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Alacrity -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</death>
+		</drop_lists>
+	</npc>
+	<npc id="2083" name="Plague Kanabion" title="">
+		<set name="aggroRange" value="300" />
+		<set name="ai_type" value="Fighter" />
+		<set name="baseAtkRange" value="40" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="40" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="3835.59060587002" />
+		<set name="baseHpRate" value="1" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="751" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="259" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1743" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="1099" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="354" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="15" />
+		<set name="collision_height" value="35.0" />
+		<set name="collision_radius" value="10.0" />
+		<set name="level" value="80" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="961" />
+		<set name="shots" value="NONE" />
+		<set name="texture" value="" />
+		<set name="type" value="Monster" />
+		<skills>
+			<skill id="4032" level="8" /> <!-- NPC Strike -->
+			<skill id="4340" level="1" /> <!-- Ultimate Buff, 2nd -->
+			<skill id="4408" level="1" /> <!-- HP Modifiers -->
+			<skill id="4409" level="1" /> <!-- MP Modifiers -->
+			<skill id="4410" level="11" /> <!-- P. Atk. Modifiers -->
+			<skill id="4411" level="11" /> <!-- M. Atk. Modifiers -->
+			<skill id="4412" level="11" /> <!-- P. Def. Modifiers -->
+			<skill id="4413" level="11" /> <!-- M. Def. Modifiers -->
+			<skill id="4414" level="2" /> <!-- Armor Type -->
+			<skill id="4415" level="3" /> <!-- Weapon Type -->
+			<skill id="4416" level="6" /> <!-- Races -->
+			<skill id="5719" level="1" /> <!-- Kamabion Susceptibility -->
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="20" />
+			<defence attribute="water" value="20" />
+			<defence attribute="wind" value="20" />
+			<defence attribute="earth" value="20" />
+			<defence attribute="holy" value="20" />
+			<defence attribute="unholy" value="20" />
+		</attributes>
+		<drop_lists>
+			<death>
+				<group chance="42">
+					<item id="8600" min="1" max="1" chance="20" /> <!-- Herb of Life -->
+					<item id="8601" min="1" max="1" chance="45" /> <!-- Greater Herb of Life -->
+					<item id="8602" min="1" max="1" chance="35" /> <!-- Superior Herb of Life -->
+				</group>
+				<group chance="11">
+					<item id="8603" min="1" max="1" chance="10" /> <!-- Herb of Mana -->
+					<item id="8604" min="1" max="1" chance="54" /> <!-- Greater Herb of Mana -->
+					<item id="8605" min="1" max="1" chance="36" /> <!-- Superior Herb of Mana -->
+				</group>
+				<group chance="25">
+					<item id="8606" min="1" max="1" chance="20" /> <!-- Herb of Power -->
+					<item id="8608" min="1" max="1" chance="20" /> <!-- Herb of Alacrity -->
+					<item id="8610" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Probability -->
+					<item id="10655" min="1" max="1" chance="20" /> <!-- Herb of Vampiric Rage -->
+					<item id="10656" min="1" max="1" chance="20" /> <!-- Herb of Critical Attack - Power -->
+				</group>
+				<group chance="10">
+					<item id="8607" min="1" max="1" chance="50" /> <!-- Herb of Magic -->
+					<item id="8609" min="1" max="1" chance="50" /> <!-- Herb of Casting Spd. -->
+				</group>
+				<group chance="1">
+					<item id="8612" min="1" max="1" chance="33" /> <!-- Herb of the Warrior -->
+					<item id="8613" min="1" max="1" chance="33" /> <!-- Herb of the Mystic -->
+					<item id="8614" min="1" max="1" chance="34" /> <!-- Herb of Recovery -->
+				</group>
+				<group chance="11">
+					<item id="8611" min="1" max="1" chance="94" /> <!-- Herb of Speed -->
+					<item id="10657" min="1" max="1" chance="3" /> <!-- Herb of Doubt -->
+					<item id="13028" min="1" max="1" chance="3" /> <!-- Vitality Replenishing Herb -->
+				</group>
+			</death>
+		</drop_lists>
+	</npc>
+</list>
