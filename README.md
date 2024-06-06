@@ -46,8 +46,8 @@ and open tag in our file WolfPack
   - ai_type == **dont change this**
   - **attributes** `baseCON` == `<stats con="00">` **tag**
   - **attributes** `baseCritRate` == `<attack critical="0" />` **tag**
-  - > in `**baseCritRate**` if = 40 it gonna be 4 in  `<attack critical="4" />`
-  - > in `**baseCritRate**` if = 90 it gonna be 9 in  `<attack critical="9" />`
+  - > in **`baseCritRate`** if = 40 it gonna be 4 in  `<attack critical="4" />`
+  - > in **`baseCritRate`** if = 90 it gonna be 9 in  `<attack critical="9" />`
   - **attributes** `baseDEX` == `<stats dex="00">` **tag**
   - **attributes** `baseHpMax` == `<vitals hp="00.00" />` **tag**
   - **attributes** `baseHpRate` == **dont change this**
