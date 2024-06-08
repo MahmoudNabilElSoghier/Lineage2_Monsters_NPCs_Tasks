@@ -5999,7 +5999,7 @@
 			</corpse>
 		</drop_lists>
 	</npc>
-	<npc id="22861" name="Scorpion Bones" title="">
+	<npc id="22861" name="Hard Scorpion Bones" title="">
 	<!-- Edited to Retail CT2.6 by LordOfBattle -->
 		<set name="aggroRange" value="400" />
 		<set name="ai_type" value="Fighter" />
