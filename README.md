@@ -8,7 +8,7 @@
   - Folder **to** has 25 files
 - Folder **part 1 swelam**
   - Folder **from** has 25 files
-  - Folder **to** has 25 files
+  - Folder **to** has 25 filess
 - Folder **part 1 eldoc**
   - Folder **from** has 25 files
   - Folder **to** has 25 files
