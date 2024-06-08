@@ -43,7 +43,7 @@ and open tag in our file WolfPack
   - **attributes** `id` == `id` **attributes** and **that is the road of changes**
   - **attributes** `name` == `name` **attributes**
   - **attributes** `aggroRange` == `<ai type="BALANCED" aggroRange="300"/>` **tag**
-  - ai_type == **dont change this**
+  - **attributes** `ai_type` == **dont change this**
   - **attributes** `baseCON` == `<stats con="00">` **tag**
   - **attributes** `baseCritRate` == `<attack critical="0" />` **tag**
   - > in **`baseCritRate`** if = 40 it gonna be 4 in  `<attack critical="4" />`
