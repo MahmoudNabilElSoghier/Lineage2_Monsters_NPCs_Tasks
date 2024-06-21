@@ -59,25 +59,26 @@
 		</attributes>
 	</npc>
 	<npc id="32101" name="Tony the Cat" title="Event Manager">
+	<!-- Edited to Retail CT2.6 by LordOfBattle -->
 		<set name="aggroRange" value="0" />
 		<set name="ai_type" value="CharacterAI" />
 		<set name="baseAtkRange" value="40" />
 		<set name="baseCON" value="43" />
 		<set name="baseCritRate" value="40" />
 		<set name="baseDEX" value="30" />
-		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpMax" value="2444.46819" />
 		<set name="baseHpRate" value="1" />
 		<set name="baseHpReg" value="7.5" />
 		<set name="baseINT" value="21" />
-		<set name="baseMAtk" value="780" />
-		<set name="baseMAtkSpd" value="500" />
-		<set name="baseMDef" value="382" />
+		<set name="baseMAtk" value="470" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="217" />
 		<set name="baseMEN" value="20" />
 		<set name="baseMpMax" value="1345.8" />
 		<set name="baseMpReg" value="2.7" />
-		<set name="basePAtk" value="1303" />
+		<set name="basePAtk" value="689" />
 		<set name="basePAtkSpd" value="253" />
-		<set name="basePDef" value="471" />
+		<set name="basePDef" value="296" />
 		<set name="baseRunSpd" value="120" />
 		<set name="baseSTR" value="40" />
 		<set name="baseShldDef" value="0" />
@@ -94,7 +95,16 @@
 		<set name="texture" value="" />
 		<set name="type" value="Npc" />
 		<skills>
-			<skill id="4416" level="7" />	<!--Spirits -->
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="1" /> <!--Bare Hands -->
+			<skill id="4416" level="7" /> <!--Spirits -->
 		</skills>
 		<attributes>
 			<defence attribute="fire" value="150" />
@@ -106,25 +116,26 @@
 		</attributes>
 	</npc>
 	<npc id="32102" name="Tony the Cat" title="Event Manager">
+	<!-- Edited to Retail CT2.6 by LordOfBattle -->
 		<set name="aggroRange" value="0" />
 		<set name="ai_type" value="CharacterAI" />
 		<set name="baseAtkRange" value="40" />
 		<set name="baseCON" value="43" />
 		<set name="baseCritRate" value="40" />
 		<set name="baseDEX" value="30" />
-		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpMax" value="2444.46819" />
 		<set name="baseHpRate" value="1" />
 		<set name="baseHpReg" value="7.5" />
 		<set name="baseINT" value="21" />
-		<set name="baseMAtk" value="780" />
-		<set name="baseMAtkSpd" value="500" />
-		<set name="baseMDef" value="382" />
+		<set name="baseMAtk" value="470" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="217" />
 		<set name="baseMEN" value="20" />
 		<set name="baseMpMax" value="1345.8" />
 		<set name="baseMpReg" value="2.7" />
-		<set name="basePAtk" value="1303" />
+		<set name="basePAtk" value="689" />
 		<set name="basePAtkSpd" value="253" />
-		<set name="basePDef" value="471" />
+		<set name="basePDef" value="296" />
 		<set name="baseRunSpd" value="120" />
 		<set name="baseSTR" value="40" />
 		<set name="baseShldDef" value="0" />
@@ -141,7 +152,16 @@
 		<set name="texture" value="" />
 		<set name="type" value="Npc" />
 		<skills>
-			<skill id="4416" level="7" />	<!--Spirits -->
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="1" /> <!--Bare Hands -->
+			<skill id="4416" level="7" /> <!--Spirits -->
 		</skills>
 		<attributes>
 			<defence attribute="fire" value="150" />
@@ -153,25 +173,26 @@
 		</attributes>
 	</npc>
 	<npc id="32103" name="Telling the Cat" title="Event Manager">
+	<!-- Edited to Retail CT2.6 by LordOfBattle -->
 		<set name="aggroRange" value="0" />
 		<set name="ai_type" value="CharacterAI" />
 		<set name="baseAtkRange" value="40" />
 		<set name="baseCON" value="43" />
 		<set name="baseCritRate" value="40" />
 		<set name="baseDEX" value="30" />
-		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpMax" value="2444.46819" />
 		<set name="baseHpRate" value="1" />
 		<set name="baseHpReg" value="7.5" />
 		<set name="baseINT" value="21" />
-		<set name="baseMAtk" value="780" />
-		<set name="baseMAtkSpd" value="500" />
-		<set name="baseMDef" value="382" />
+		<set name="baseMAtk" value="470" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="217" />
 		<set name="baseMEN" value="20" />
 		<set name="baseMpMax" value="1345.8" />
 		<set name="baseMpReg" value="2.7" />
-		<set name="basePAtk" value="1303" />
+		<set name="basePAtk" value="689" />
 		<set name="basePAtkSpd" value="253" />
-		<set name="basePDef" value="471" />
+		<set name="basePDef" value="296" />
 		<set name="baseRunSpd" value="120" />
 		<set name="baseSTR" value="40" />
 		<set name="baseShldDef" value="0" />
@@ -188,7 +209,16 @@
 		<set name="texture" value="" />
 		<set name="type" value="Npc" />
 		<skills>
-			<skill id="4416" level="7" />	<!--Spirits -->
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="1" /> <!--Bare Hands -->
+			<skill id="4416" level="7" /> <!--Spirits -->
 		</skills>
 		<attributes>
 			<defence attribute="fire" value="150" />
@@ -200,31 +230,32 @@
 		</attributes>
 	</npc>
 	<npc id="32104" name="Vervato" title="">
+	<!-- Edited to Retail CT2.6 by LordOfBattle -->
 		<set name="aggroRange" value="0" />
 		<set name="ai_type" value="CharacterAI" />
 		<set name="baseAtkRange" value="40" />
 		<set name="baseCON" value="43" />
 		<set name="baseCritRate" value="40" />
 		<set name="baseDEX" value="30" />
-		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpMax" value="2444.46819" />
 		<set name="baseHpRate" value="1" />
 		<set name="baseHpReg" value="7.5" />
 		<set name="baseINT" value="21" />
-		<set name="baseMAtk" value="780" />
-		<set name="baseMAtkSpd" value="500" />
-		<set name="baseMDef" value="382" />
+		<set name="baseMAtk" value="470" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="217" />
 		<set name="baseMEN" value="20" />
 		<set name="baseMpMax" value="1345.8" />
 		<set name="baseMpReg" value="2.7" />
-		<set name="basePAtk" value="1303" />
+		<set name="basePAtk" value="689" />
 		<set name="basePAtkSpd" value="253" />
-		<set name="basePDef" value="471" />
-		<set name="baseRunSpd" value="132" />
+		<set name="basePDef" value="296" />
+		<set name="baseRunSpd" value="100" />
 		<set name="baseSTR" value="40" />
 		<set name="baseShldDef" value="0" />
 		<set name="baseShldRate" value="0" />
 		<set name="baseWIT" value="20" />
-		<set name="baseWalkSpd" value="88" />
+		<set name="baseWalkSpd" value="60" />
 		<set name="collision_height" value="33.0" />
 		<set name="collision_radius" value="25.0" />
 		<set name="level" value="70" />
@@ -235,7 +266,16 @@
 		<set name="texture" value="" />
 		<set name="type" value="Npc" />
 		<skills>
-			<skill id="4416" level="6" />	<!--Humanoids -->
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="6" /> <!--Humanoids -->
 		</skills>
 		<attributes>
 			<defence attribute="fire" value="150" />
@@ -247,31 +287,32 @@
 		</attributes>
 	</npc>
 	<npc id="32105" name="Dinn" title="">
+	<!-- Edited to Retail CT2.6 by LordOfBattle -->
 		<set name="aggroRange" value="0" />
 		<set name="ai_type" value="CharacterAI" />
 		<set name="baseAtkRange" value="40" />
 		<set name="baseCON" value="43" />
 		<set name="baseCritRate" value="40" />
 		<set name="baseDEX" value="30" />
-		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpMax" value="2444.46819" />
 		<set name="baseHpRate" value="1" />
 		<set name="baseHpReg" value="7.5" />
 		<set name="baseINT" value="21" />
-		<set name="baseMAtk" value="780" />
-		<set name="baseMAtkSpd" value="500" />
-		<set name="baseMDef" value="382" />
+		<set name="baseMAtk" value="470" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="217" />
 		<set name="baseMEN" value="20" />
 		<set name="baseMpMax" value="1345.8" />
 		<set name="baseMpReg" value="2.7" />
-		<set name="basePAtk" value="1303" />
+		<set name="basePAtk" value="689" />
 		<set name="basePAtkSpd" value="253" />
-		<set name="basePDef" value="471" />
-		<set name="baseRunSpd" value="132" />
+		<set name="basePDef" value="296" />
+		<set name="baseRunSpd" value="100" />
 		<set name="baseSTR" value="40" />
 		<set name="baseShldDef" value="0" />
 		<set name="baseShldRate" value="0" />
 		<set name="baseWIT" value="20" />
-		<set name="baseWalkSpd" value="88" />
+		<set name="baseWalkSpd" value="50" />
 		<set name="collision_height" value="23.0" />
 		<set name="collision_radius" value="8.0" />
 		<set name="level" value="70" />
@@ -282,7 +323,16 @@
 		<set name="texture" value="" />
 		<set name="type" value="Merchant" />
 		<skills>
-			<skill id="4416" level="14" />	<!--Humans -->
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="14" /> <!--Humans -->
 		</skills>
 		<attributes>
 			<defence attribute="fire" value="150" />
@@ -294,31 +344,32 @@
 		</attributes>
 	</npc>
 	<npc id="32106" name="Singsing" title="">
+	<!-- Edited to Retail CT2.6 by LordOfBattle -->
 		<set name="aggroRange" value="0" />
 		<set name="ai_type" value="CharacterAI" />
 		<set name="baseAtkRange" value="40" />
 		<set name="baseCON" value="43" />
 		<set name="baseCritRate" value="40" />
 		<set name="baseDEX" value="30" />
-		<set name="baseHpMax" value="2444.468" />
+		<set name="baseHpMax" value="2444.46819" />
 		<set name="baseHpRate" value="1" />
 		<set name="baseHpReg" value="7.5" />
 		<set name="baseINT" value="21" />
-		<set name="baseMAtk" value="780" />
-		<set name="baseMAtkSpd" value="500" />
-		<set name="baseMDef" value="382" />
+		<set name="baseMAtk" value="470" />
+		<set name="baseMAtkSpd" value="333" />
+		<set name="baseMDef" value="217" />
 		<set name="baseMEN" value="20" />
 		<set name="baseMpMax" value="1345.8" />
 		<set name="baseMpReg" value="2.7" />
-		<set name="basePAtk" value="1303" />
+		<set name="basePAtk" value="689" />
 		<set name="basePAtkSpd" value="253" />
-		<set name="basePDef" value="471" />
-		<set name="baseRunSpd" value="132" />
+		<set name="basePDef" value="296" />
+		<set name="baseRunSpd" value="100" />
 		<set name="baseSTR" value="40" />
 		<set name="baseShldDef" value="0" />
 		<set name="baseShldRate" value="0" />
 		<set name="baseWIT" value="20" />
-		<set name="baseWalkSpd" value="88" />
+		<set name="baseWalkSpd" value="50" />
 		<set name="collision_height" value="23.0" />
 		<set name="collision_radius" value="8.0" />
 		<set name="level" value="70" />
@@ -329,7 +380,16 @@
 		<set name="texture" value="" />
 		<set name="type" value="Merchant" />
 		<skills>
-			<skill id="4416" level="14" />	<!--Humans -->
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="14" /> <!--Humans -->
 		</skills>
 		<attributes>
 			<defence attribute="fire" value="150" />
